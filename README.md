@@ -210,12 +210,17 @@ Create the required `.env` files for the database connection, JWT configuration,
 
 ## 📸 Screenshots
 
-Add screenshots of the main application pages here:
+![Budget Page](./Budget_page.png)
 
-* Dashboard
-* Transactions
-* Budgets
-* Login/Register
+![Categories Page](./Categories_page.png)
+
+![DashBoard](./DashBoard.png)
+
+![DashBoard Page Bottom](./DashBoard_page_bottom.png)
+
+![Login Page](./Login%20Page.png)
+
+![Transactions Page](./Transactions_page.png)
 
 ---
 
