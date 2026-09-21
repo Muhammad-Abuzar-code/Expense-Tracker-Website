@@ -210,18 +210,23 @@ Create the required `.env` files for the database connection, JWT configuration,
 
 ## 📸 Screenshots
 
-![Budget Page](./Budget_page.png)
-
-![Categories Page](./Categories_page.png)
-
-![DashBoard](./DashBoard.png)
-
-![DashBoard Page Bottom](./DashBoard_page_bottom.png)
-
+## Login Page
 ![Login Page](./Login%20Page.png)
 
+## Dashboard
+![DashBoard](./DashBoard.png)
+
+## Dashboard Bottom
+![DashBoard Page Bottom](./DashBoard_page_bottom.png)
+
+## Transactions Page
 ![Transactions Page](./Transactions_page.png)
 
+## Categories Page
+![Categories Page](./Categories_page.png)
+
+## Budget Page
+![Budget Page](./Budget_page.png)
 ---
 
 ## 📚 What I Learned
