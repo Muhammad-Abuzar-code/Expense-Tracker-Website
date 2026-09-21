@@ -246,22 +246,3 @@ This project provided practical experience with:
 * Frontend-to-backend integration
 
 ---
-
-## 🔮 Future Improvements
-
-* Automated testing
-* Alembic database migrations
-* Dockerization
-* Production deployment
-* Recurring transactions
-* Financial reports and exports
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
-Computer Science Student | Python Backend & AI/ML Enthusiast
-
-[GitHub](YOUR_GITHUB_LINK) • [LinkedIn](YOUR_LINKEDIN_LINK)
