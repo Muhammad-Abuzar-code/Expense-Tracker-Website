@@ -1,0 +1,21 @@
+{
+  "name": "pocketwise-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "lucide-react": "^1.46.0",
+    "react": "^19",
+    "react-dom": "^19"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "vite": "^8.3.0"
+  }
+}
